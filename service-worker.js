@@ -9,17 +9,17 @@ if (workbox) {
 var dataCacheName = 'webprogapp';
 var cacheName = 'webprogappcache';
 var filesToCache = [
-  '',
-  'index.html',
-  'basic.html',
-  'scripts/main.js',
-  'scripts/ws/runtime-caching.js',
-  'styles/main.css',
-  'images/hamburger.svg',
-  'images/touch/apple-touch-icon.png',
-  'images/touch/chrome-touch-icon-192x192.png',
-  'images/touch/icon-128x128.png',
-  'images/touch/ms-touch-icon-144x144-precomposed.png',
+  '/progwebapptest/',
+  '/progwebapptest/index.html',
+  '/progwebapptest/basic.html',
+  '/progwebapptest/scripts/main.js',
+  '/progwebapptest/scripts/ws/runtime-caching.js',
+  '/progwebapptest/styles/main.css',
+  '/progwebapptest/images/hamburger.svg',
+  '/progwebapptest/images/touch/apple-touch-icon.png',
+  '/progwebapptest/images/touch/chrome-touch-icon-192x192.png',
+  '/progwebapptest/images/touch/icon-128x128.png',
+  '/progwebapptest/images/touch/ms-touch-icon-144x144-precomposed.png',
 ];
 
 self.addEventListener('install', function(e) {
