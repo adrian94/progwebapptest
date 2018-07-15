@@ -1,5 +1,5 @@
-var dataCacheName = 'wpa';
-var cacheName = 'wpa';
+var dataCacheName = 'webprogapp';
+var cacheName = 'webprogappcache';
 var filesToCache = [
   '/',
   '/index.html',
