@@ -13,7 +13,7 @@ var filesToCache = [
   '/progwebapptest/index.html',
   '/progwebapptest/basic.html',
   '/progwebapptest/scripts/main.js',
-  '/progwebapptest/scripts/ws/runtime-caching.js',
+  '/progwebapptest/scripts/sw/runtime-caching.js',
   '/progwebapptest/styles/main.css',
   '/progwebapptest/images/hamburger.svg',
   '/progwebapptest/images/touch/apple-touch-icon.png',
